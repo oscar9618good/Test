@@ -5,6 +5,3 @@ else:
     print("不OK")
 
 # status
-# OK
-# a
-# 
